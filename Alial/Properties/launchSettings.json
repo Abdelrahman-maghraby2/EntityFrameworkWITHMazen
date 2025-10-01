@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Alial": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
